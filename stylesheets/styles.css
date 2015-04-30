@@ -108,12 +108,12 @@ header ul {
   padding:0;
   
   background: #eee;
-  background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  background: -o-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  background: -ms-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  background: linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+  background: -moz-linear-gradient(top, #f8f8f8 0%, #ffffff 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#ffffff));
+  background: -webkit-linear-gradient(top, #f8f8f8 0%,#ffffff 100%);
+  background: -o-linear-gradient(top, #f8f8f8 0%,#ffffff 100%);
+  background: -ms-linear-gradient(top, #f8f8f8 0%,#ffffff 100%);
+  background: linear-gradient(top, #f8f8f8 0%,#ffffff 100%);
   
   border-radius:5px;
   border:1px solid #d2d2d2;
@@ -171,7 +171,7 @@ small {
 
 hr {
   border:0;
-  background:#FFFF;
+  background:#5ADE22;
   height:1px;
   margin:0 0 20px;
 }
